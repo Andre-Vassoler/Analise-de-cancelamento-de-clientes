@@ -11,6 +11,7 @@ Projeto desenvolvido em Python para analisar uma base de dados de cancelamentos 
 
 ## 🗂️ Base de Dados
 - Arquivo utilizado: cancelamentos.csv
+  
 Contém informações sobre clientes, perfil, comportamento e status de cancelamento
 
 
@@ -24,8 +25,9 @@ Contém informações sobre clientes, perfil, comportamento e status de cancelam
 
 
 ## 🧪 Principais Análises Realizadas
-- Quantidade e porcentagem de clientes que cancelaram
-- Comparação de cancelamentos por:
+Quantidade e porcentagem de clientes que cancelaram
+
+Comparação de cancelamentos por:
 - Tipo de contrato
 - Idade dos clientes
 - Sexo
